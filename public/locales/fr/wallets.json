@@ -1,0 +1,15 @@
+{
+  "title": "Mes porte-feuilles",
+  "add": {
+    "title" : "Ajouter un porte-feuille"
+  },
+  "message": {
+    "empty": {
+      "title": "Vous n'avez pas encore ajouté de porte-feuille.",
+      "title-2": "Vous n'avez pas de crypto-monnaie.",
+      "btn": "Ajouter un nouveau porte-feuille !"
+    },
+    "already-exist": "Le porte-feuille soumis est déjà enregistré.",
+    "bad-wallet": "Le porte-feuille soumis n'est pas reconnu."
+  }
+}

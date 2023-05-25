@@ -1,0 +1,9 @@
+{
+  "top-crypto": {
+    "title": "Top 20 Cryptos",
+    "title-2": "List of Cryptocurrencies",
+    "placeholder": "Search by name or symbol...",
+    "see-more": "See the top 100"
+  },
+  "crypto-price-chart": "{{crypto}} Price Chart"
+}

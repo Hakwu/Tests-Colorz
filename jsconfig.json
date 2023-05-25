@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./src/components/*"],
+      "@services/*": ["./src/services/*"],
+      "@sections/*": ["./src/sections/*"],
+      "@layouts/*": ["./src/layouts/*"],
+      "@recoil/*": ["./src/recoil/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@enums/*": ["./src/enums/*"],
+      "@lib/*": ["./src/lib/*"],
+      "@styles/*": ["./styles/*"],
+      "@assets/*": ["./assets/*"],
+      "@public/*": ["./public/*"],
+      "@config/*": ["./config/*"]
+    }
+  }
+}

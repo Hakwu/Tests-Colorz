@@ -1,0 +1,9 @@
+{
+  "required": "Required.",
+  "invalid-email": "Invalid email address.",
+  "password-min": "Password should be of minimum 8 characters length.",
+  "name-min": "The name must be at least 2 characters.",
+  "password-must-match": "The passwords must match.",
+  "greater-than-zero": "The value must be greater than 0.",
+  "unexpected-error": "An error has occurred."
+}

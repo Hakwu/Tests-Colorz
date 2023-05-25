@@ -1,0 +1,20 @@
+{
+  "success": {
+    "order-added": "La commande a bien été ajoutée.",
+    "order-deleted":  "La commande a bien été supprimée.",
+    "wallet-name-edited": "Le nom du porte-feuille a bien été mis à jour.",
+    "wallet-deleted": "Le porte-feuille a bien été supprimé.",
+    "password-updated": "Le mot de passe a bien été mis à jour.",
+    "profile-updated": "Le profil a bien été mis à jour.",
+    "alert-added": "L'alert a bien été ajoutée.",
+    "alert-deleted":  "L'alert a bien été supprimée.",
+    "added": "Le {{type}} a bien été ajoutée.",
+    "deleted": "Le {{type}} a bien été supprimée."
+  },
+  "error": {
+    "email-already-taken": "The email address is already taken. Please use another one.",
+    "bad-password": "Le mot de passe est incorrect.",
+    "unexpected-error": "Une erreur est survenue.",
+    "undefined": "Une erreur est survenue."
+  }
+}

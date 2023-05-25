@@ -1,0 +1,16 @@
+{
+  "title": "My alerts",
+  "add": {
+    "title": "Add alert"
+  },
+  "message": {
+    "empty": {
+      "title": "You have not yet added a alerts.",
+      "btn": "Add a new alert!"
+    }
+  },
+  "types": {
+    "MIN": "Price drops to",
+    "MAX": "Price rises above"
+  }
+}

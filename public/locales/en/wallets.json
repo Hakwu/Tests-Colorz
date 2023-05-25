@@ -1,0 +1,15 @@
+{
+  "title": "My wallets",
+  "add": {
+    "title": "Add wallet"
+  },
+  "message": {
+    "empty": {
+      "title": "You have not yet added a wallet.",
+      "title-2": "You don't have cryptocurrency.",
+      "btn": "Add a new wallet!"
+    },
+    "already-exist": "The submitted wallet is already registered.",
+    "bad-wallet": "The submitted wallet is not recognised."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "success": {
+    "order-added": "The order has been added.",
+    "order-deleted": "The order has been deleted.",
+    "wallet-name-edited": "The name of the wallet has been updated.",
+    "wallet-deleted": "The wallet has been deleted.",
+    "password-updated": "The password has been updated.",
+    "profile-updated": "The profile has been updated.",
+    "alert-added": "The alert has been added.",
+    "alert-deleted": "The alert has been deleted.",
+    "added": "The {{type}} has been added.",
+    "deleted": "The {{type}} has been deleted."
+  },
+  "error": {
+    "email-already-taken": "The email address is already taken. Please use another one.",
+    "bad-password": "The password is incorrect.",
+    "unexpected-error": "An error has occurred.",
+    "undefined": "An error has occurred."
+  }
+}

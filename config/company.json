@@ -1,0 +1,10 @@
+{
+  "company_name": "Company name",
+  "street": "Street",
+  "city": "City",
+  "state": "State",
+  "postcode": "Postcode",
+  "country": "Country",
+  "website": "https://flowcheck.io",
+  "email": "contact@flowcheck.io"
+}

@@ -1,0 +1,13 @@
+
+.box1 {
+  background-color: white;
+  height:200px;
+  width: 90%;
+  position: relative;
+  margin-bottom: 5%;
+  border-radius: 2%;
+  border: solid;
+  border-color: #c8c8c8;
+  border-width: 10;
+  box-shadow: 0px 0px 20px rgb(207, 202, 202);
+}

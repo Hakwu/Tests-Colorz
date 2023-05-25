@@ -1,0 +1,97 @@
+{
+  "header": {
+    "cta-1" : "Lancer l'application",
+    "cta-2" : "Commencer"
+  },
+  "footer": {
+    "subscribe": {
+      "title": "S'abonner à notre newsletter",
+      "placeholder": "Entrez votre adresse e-mail",
+      "btn": "S'abonner",
+      "success": "Vous êtes maintenant inscrit à notre newsletter."
+    }
+  },
+  "menu": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "contact": "Contactez-nous",
+    "blog": "Blog"
+  },
+  "h1": "Avec Vision.R, travaillez au bureau... comme si vous étiez encore à la maison !",
+  "h1-description": "Du JAMAIS VU (enfin jusqu’à maintenant, du coup)",
+  "section-1": {
+    "description": "Vision.R with a grand “R” like in the mot “Revolution” ! You are afraid to feel déstabilized with the futur retour au bureau ? With Vision.R, be rassuré.e.s ! Get instant, real time, high resolution, social videocall and feel comme à la maison. Bref, get ready to faire un carton !",
+    "description-2": "Vision.R with a grand “R” like in the mot “Revolution” ! You are afraid to feel déstabilized with the futur retour au bureau ? With rScreenz, be rassuré.e.s ! Get instant, real time, high resolution, social videocall and feel comme à la maison. Bref, get ready to faire un carton !",
+    "li-1": "The pudique (or je suis en pyjama et j’assume pas) effect",
+    "li-2": "With our no camera mode, you can be wherever you want and be en pyjama in totale discretion with professionnalisme.",
+    "li-3": "Start from zero, choose your background and create your new life while impressing the collègues."
+  },
+  "section-2": {
+    "label": "Paris",
+    "title": "16 bis avenue Parmentier ",
+    "description": "Lyon",
+    "features": {
+      "1": {
+        "title": "1 rue Lalande 69006",
+        "title2": "Lyon, France"
+      },
+      "2": {
+        "title": "Nous contacter",
+        "description": "+33 (0)1 82 83 83 60",
+        "description2": "hello@colorz.fr"
+      },
+      "3": {
+        "title": "Maxime Leborgne",
+        "description": "Front-end"
+      },
+      "4": {
+        "title": "Christophe Sourinthone",
+        "description": "Front-end"
+      },
+      "5": {
+        "title": "Malik Henni",
+        "description": "Back-end"
+      },
+      "6": {
+        "title": "Valentin Ozveri",
+        "description": "Front-end"
+      }
+    }
+  },
+  "exchanges": {
+    "label": "75011 Paris, France",
+    "title": "Voici notre avancée sur le projet Pulsive !",
+    "description": ""
+  },
+  "apps": {
+    "label": "Nos applications",
+    "title": "Some indispensables accessoires to optimize your experience",
+    "description": "Profitez des deux plateformes de CryptoComet, son l'application web et son application mobile.",
+    "tabs-1": {
+      "title": "Application web",
+      "description": "Accédez à toutes les fonctionnalités de CryptoComet depuis l'application web.",
+      "li-1": "Gardez vos portefeuilles et votre Portfolio sous les yeux.",
+      "li-2": "Gérez vos alertes cryptos et profitez du comparateur de frais pour vos achats et vos ventes.",
+      "li-3": ""
+    },
+    "tabs-2": {
+      "title": "Application mobile",
+      "description": "L'application mobile est une version condensé de l'application web, pour vous permettre d'accéder à votre Portfolio rapidement.",
+      "li-1": "Accès direct à votre Portfolio et vos cryptomonnaies.",
+      "li-2": "Gestion des alertes avec réceptions de notification push.",
+      "li-3": ""
+    }
+  },
+  "faqs": {
+    "label": "FAQS",
+    "title": "Foire aux questions",
+    "description": "Voici quelques questions qui nous sont souvent adressées."
+  },
+  "newsletter": {
+    "unsubscribe": {
+      "title": "Désabonnement des Newsletters",
+      "description": "Vous êtes maintenant désabonné de nos e-mails",
+      "btn" : "Retour à l'accueil"
+    }
+  }
+}

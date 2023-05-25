@@ -1,0 +1,25 @@
+@import "spinner";
+
+.borderRadius {
+  border-radius: 6px;
+}
+
+.piechart-tooltip {
+  padding: 5px 10px;
+  text-align: left;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.blurry-text {
+  color: transparent;
+  text-shadow: 0 0 10px black;
+}
+
+.darkbg {
+  .blurry-text {
+    text-shadow: 0 0 10px whitesmoke;
+  }
+}
+

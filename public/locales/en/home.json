@@ -1,0 +1,99 @@
+{
+  "header": {
+    "cta-1": "Launch the App",
+    "cta-2": "Sign up"
+  },
+  "footer": {
+    "subscribe": {
+      "title": "Subscribe to our Newsletter",
+      "placeholder": "Enter your email address",
+      "btn": "Subscribe",
+      "success": "You are now subscribed to our newsletter."
+    }
+  },
+  "menu": {
+    "login": "Log in",
+    "register": "Sign up",
+    "contact": "Contact Us",
+    "blog": "Blog"
+  },
+  "h1": "Crypto Portfolio Management",
+  "h1-description": "CryptoComet allows you to centralize your cryptocurrency wallets in a single application.",
+  "section-1": {
+    "label": "What is CryptoComet?",
+    "title": "How it works",
+    "description": "Our solution is the centralization of your cryptocurrency wallets. The goal is to provide an overview of the evolution of your balance.",
+    "title-2": "One account for several exchange platforms.",
+    "description-2": "Nous supportons les plateformes les plus populaires telles que Binance, FTX, Coinbase pro, Bybit, Gate.io et Phemex.",
+    "li-1": "We support the most popular platforms such as Binance, FTX, Coinbase pro, Bybit, Gate.io and Phemex.",
+    "li-2": "Once your wallet is synchronized, you can access your balance, its evolution and your cryptocurrencies.",
+    "li-3": "Add all your portfolios so you can access your total balance at a glance from your portfolio."
+  },
+  "section-2": {
+    "label": "CryptoComet Features",
+    "title": "Features",
+    "description": "We provide you with all its features so that you can manage your cryptocurrencies in the easiest and clearest way possible.",
+    "features": {
+      "1": {
+        "title": "Dashboard",
+        "description": "Always have quick access to your portfolio balance, its evolution graph of the last 24 hours, the crypto-currencies with the best market capitalization as well as the \"Fear & Greed\" index of Bitcoin and Etherum."
+      },
+      "2": {
+        "title": "Wallet",
+        "description": "You can view each portfolio independently of the others, add as many portfolios as you like to your portfolio to calculate your actual total balance."
+      },
+      "3": {
+        "title": "Portfolio",
+        "description": "It will give you an overview of the evolution, balance and cryptocurrencies of your wallets."
+      },
+      "4": {
+        "title": "Alerts",
+        "description": "Alerts are there to make your life easier. Set up your price alerts on the crypto-currencies of your choice to receive email or push notifications (mobile) when the price reaches or drops to a certain amount."
+      },
+      "5": {
+        "title": "Fee comparator",
+        "description": "Use our fee comparator to find out on which exchange platform it is more advantageous to buy or sell a given cryptocurrency."
+      },
+      "6": {
+        "title": "Web / Mobile",
+        "description": "Access your portfolio anywhere, anytime. Our application is accessible from the web browser as well as from our mobile application."
+      }
+    }
+  },
+  "exchanges": {
+    "label": "Supported exchange platforms",
+    "title": "Manage all your cryptocurrency wallets.",
+    "description": "CryptoComet allows you to add up to 6 trading platforms with no account limit."
+  },
+  "apps": {
+    "label": "Our apps",
+    "title": "Access your Portfolio anywhere",
+    "description": "Take advantage of CryptoComet's two platforms, its web application and its mobile application.",
+    "tabs-1": {
+      "title": "Web application",
+      "description": "Access all CryptoComet features from the web application.",
+      "li-1": "Keep your wallets and portfolio in view.",
+      "li-2": "Manage your crypto alerts and take advantage of the fee comparator for your purchases and sales.",
+      "li-3": ""
+    },
+    "tabs-2": {
+      "title": "Mobile application",
+      "description": "The mobile application is a condensed version of the web application, allowing you to access your Portfolio quickly.",
+      "li-1": "Direct access to your portfolio and cryptocurrencies.",
+      "li-2": "Alert management with push notification reception.",
+      "li-3": ""
+    }
+  },
+  "faqs": {
+    "label": "FAQS",
+    "title": "Frequently Asked Questions",
+    "description": "Here are some questions we are often asked."
+  },
+  "newsletter": {
+    "unsubscribe": {
+      "title": "Unsubscribe from Newsletters",
+      "description": "You've successfully unsubscribed from our emails.",
+      "btn": "Back to home"
+    }
+  }
+}
