@@ -9,7 +9,6 @@ const SENTRY_DSN = process.env.SENTRY_DSN || process.env.NEXT_PUBLIC_SENTRY_DSN;
 Sentry.init({
   dsn: "https://6276fd6bc8e64b6e8d3df0a7911f75bb@o4505246877548544.ingest.sentry.io/4505247016157184",
   // Replay may only be enabled for the client-side
-  integrations: [new Sentry.Replay()],
 
   // Set tracesSampleRate to 1.0 to capture 100%
   // of transactions for performance monitoring.
