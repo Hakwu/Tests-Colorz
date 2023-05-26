@@ -310,6 +310,20 @@
 	.information-token li span {float: unset; width: 100%;}
 	.heading-des {display: none;}
 	.heading-des2 {display: inline-block;}
+	.Modalbox {
+		margin:10px;
+	}
+	.comp1 {
+		font-size:30px;
+	}
+
+	.comp2 {
+		font-size:16px;
+	}
+
+	.comp3 {
+		font-size:16px;
+	}
 	.slider {
 		height: 184px;
 	  }
