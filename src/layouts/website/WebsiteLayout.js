@@ -30,11 +30,11 @@ function WebsiteLayout({ children }) {
         <WebsiteHeader updateVariable={updateVariable}/>
         {children}
         <Modal style={{justifyContent:'center', textAlign:'center'}} onClose={handleClose} open={variable} >
-          <div style={{margin:80}}>
+          <div className="Modalbox">
           <img style={{height:73,width:73, marginBottom:20}} src="/images/monk.png"></img>
-          <div style={{fontWeight:500, fontSize:52,marginBottom:25}}>Vous y avez (vraiment?) cru ?</div>
-          <div style={{fontSize:22, fontWeight:500, marginBottom:25}}>En tout cas, on espère que ça vous a fait sourire, parce qu’on en a bien besoin en ce moment. Et sinon, vous avez sûrement des produits plus intéressants à vendre.</div>
-          <div style={{fontSize:22, fontWeight:500}}>Ça tombe bien, nos équipes sont plus fortes en communication digitale qu’en innovations en carton.</div>
+          <div className='comp1'>Vous y avez (vraiment?) cru ?</div>
+          <div className='comp2'>En tout cas, on espère que ça vous a fait sourire, parce qu’on en a bien besoin en ce moment. Et sinon, vous avez sûrement des produits plus intéressants à vendre.</div>
+          <div className='comp3'>Ça tombe bien, nos équipes sont plus fortes en communication digitale qu’en innovations en carton.</div>
           </div>
         </Modal>
         <WebsiteFooter />
