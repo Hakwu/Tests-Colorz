@@ -100,6 +100,23 @@ input:focus {outline: unset; box-shadow: 0px 0px 10px 1px rgb(0, 0, 0, 0.5);}
 .mb-30{margin-bottom: 30px;}
 .mb-45{margin-bottom: 45px;}
 
+.Modalbox {
+  margin:80px;
+}
+
+.comp1 {
+  font-weight:500; font-size:52px; margin-bottom:25px;
+}
+
+.comp2 {
+  font-weight:500; font-size:22px; margin-bottom:25px;
+}
+
+.comp3 {
+  font-weight:500; font-size:22px;
+}
+
+
 .css-1wktkh6 {
   max-width: 1000px !important;
 }
